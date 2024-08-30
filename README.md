@@ -4,7 +4,7 @@
 Lung cancer is a major worldwide health threat, accounting for one of the main causes of cancer-related death. The stage at which the cancer is identified is a crucial factor influencing patient survival. Hence, early identification is a challenge as it broadens therapy choices and improves patient outcomes. This project revolves around classification of 25,000 histopathological images of lung tissue from a diverse dataset into five distinct categories. A Vision Transformer (ViT) model and a hybrid Xception+MobileNet architecture are the models used for this task.
 
 ## Problem Statement
-The project’s goal is to use Convolutional Neural Networks (CNNs) and Vision Transformer to solve the essential issue of early lung cancer diagnosis. Despite advances in medical imaging, early detection of lung cancer remains difficult. Our objective is to provide a CNN-based and ViT based system capable of detecting probable malignant spots in lung scans reliably and rapidly, thereby improving patient outcomes through
+The project’s goal is to use Convolutional Neural Networks (CNNs) and Vision Transformer to solve the essential issue of early lung cancer diagnosis. Despite advances in medical imaging, early detection of lung cancer remains difficult. Our objective is to provide a CNN-based and ViT based system capable of detecting probable malignant spots in lung scans reliably and rapidly, thereby improving patient outcomes through
 early intervention.
 
 ## Objective
